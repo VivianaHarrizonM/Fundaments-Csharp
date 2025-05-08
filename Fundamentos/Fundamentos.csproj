@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DBC2FF30-471F-4F20-869D-4EB5CEEAC6D4}</ProjectGuid>
+    <ProjectGuid>{D5E42136-CA45-4A5D-80A9-156813D90A8E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Fundamentos</RootNamespace>
     <AssemblyName>Fundamentos</AssemblyName>
@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Seccion4.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="seccion 3\seccion3.cs" />
-    <Compile Include="seccion 3\tarea3\tarea3.cs" />
+    <Compile Include="seccion2\seccion2.cs" />
+    <Compile Include="seccion3\seccion3.cs" />
+    <Compile Include="seccion3\tarea3\tarea3.cs" />
+    <Compile Include="seccion4\CicloFor.cs" />
+    <Compile Include="seccion4\seccion4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
