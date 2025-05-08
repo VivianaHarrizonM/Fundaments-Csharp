@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fundamentos
+namespace Fundamentos.seccion3.tarea3
 {
-    internal class Seccion4
+    internal class tarea3
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }

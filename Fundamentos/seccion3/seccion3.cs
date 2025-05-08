@@ -4,14 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fundamentos.seccion_3
+namespace Fundamentos.seccion3
 {
     internal class seccion3
     {
+        
         /*
         static void Main(string[] args)
         {
-            /*
+            
             string color;
 
             Console.Write("Ingresa el color RGB para darte su código: ");
@@ -35,7 +36,7 @@ namespace Fundamentos.seccion_3
                     Console.WriteLine("El código RGB para {0} es: 0, 0 ,255 ", color);
                     break;
                 default: Console.WriteLine("No se encontró el código rgb para el color: {0} intenta de nuevo", color);
-                    break;*/
+                    break;
 
             // ********** Se necesita un programa que realice las 4 operaciones básicas: suma, resta, multiplicación y división, a partir de dos numeros, la operación deseada será elejifa por el usuario. *************
             /*
@@ -112,6 +113,6 @@ namespace Fundamentos.seccion_3
             }
 
         }*/
-    }
-
+    
+}
 }

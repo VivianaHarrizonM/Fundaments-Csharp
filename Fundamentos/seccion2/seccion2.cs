@@ -1,4 +1,15 @@
- {
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Fundamentos.seccion2
+{
+    internal class seccion2
+    {
+
         /*static void Main(string[] args)
         {
             
@@ -122,88 +133,89 @@
 
              }*/
 
-            // /--------/TABLAS DE VERDAD /------------/
-            /* //Negación Lógica
-            bool bateria;
-            Console.Write("¿Hay bateria? (true/false)");
-            bateria= Convert.ToBoolean(Console.ReadLine());
+        // /--------/TABLAS DE VERDAD /------------/
+        /* //Negación Lógica
+        bool bateria;
+        Console.Write("¿Hay bateria? (true/false)");
+        bateria= Convert.ToBoolean(Console.ReadLine());
 
-            if (!(bateria == true))
-            {
-                Console.WriteLine("Conecta el celular");
+        if (!(bateria == true))
+        {
+            Console.WriteLine("Conecta el celular");
 
-            }
-            else
-            {
-                Console.WriteLine("No es necesario conectar el celular");
-            }*/
-
-            /*
-            byte edad;
-            bool licencia;
-
-            bool p, q;
-            p = false;
-            q = false;
-            float calPrepa, calExamen;
-
-            ///--------- || ----------///
-            Console.WriteLine("------- Operador || --------");
-            Console.WriteLine(p || q);
-            Console.Write("¿Con qué promedio concluiste tus estudios de preparatoria? ");
-            calPrepa = Convert.ToSingle(Console.ReadLine());
-
-            Console.Write("¿Que calificación obtuviste en tu examen de ingreso? ");
-            calExamen = Convert.ToSingle(Console.ReadLine());
-
-            if ((calPrepa >= 9) || (calExamen >= 9.5))
-            {
-                Console.WriteLine("¡ Felicidades tienes la beca !");
-            }
-            else
-            {
-                Console.WriteLine(" ¡ Lo siento, no eres acreedor para una beca !");
-            }
-
-            ///----- && -----////
-            Console.WriteLine("------- Operador && --------");
-            Console.Write("¿Que edad tienes?: ");
-            edad = Convert.ToByte(Console.ReadLine());
-
-            Console.Write("¿Tienes licencia de conducir? ");
-            licencia = Convert.ToBoolean(Console.ReadLine());
-
-            if (edad >= 18 && licencia == true)
-            {
-                Console.WriteLine("Puedes condicir");
-            }
-            else
-            {
-                Console.WriteLine("Lo siento no puedes conducir");
-            }*/
-
-            //// --------------Ejecicio ------------------------
-/*
-            float energia;
-            bool propulsorIzquierdo, propulsorDerecho;
-
-            Console.Write("Ingrese el nivel de energia: ");
-            energia = Convert.ToSingle(Console.ReadLine());
-
-            Console.Write("¿El propulsor izquierdo esta en buen estado (true/false)? ");
-            propulsorIzquierdo = Convert.ToBoolean(Console.ReadLine());
-
-            Console.Write("¿El propulsor derecho esta en buen estado (true/false)? ");
-            propulsorDerecho = Convert.ToBoolean(Console.ReadLine());
-
-            if ((((propulsorIzquierdo && (propulsorDerecho)) == true) && (energia >= 75)) || ((((propulsorIzquierdo) || (propulsorDerecho)) == true) && (energia == 100)))
-            {
-                Console.WriteLine("Puedes despegar");
-            }
-            else 
-            {
-                Console.WriteLine("Lo siento no es seguro despegar");
-            }
         }
-*/
+        else
+        {
+            Console.WriteLine("No es necesario conectar el celular");
+        }*/
+
+        /*
+        byte edad;
+        bool licencia;
+
+        bool p, q;
+        p = false;
+        q = false;
+        float calPrepa, calExamen;
+
+        ///--------- || ----------///
+        Console.WriteLine("------- Operador || --------");
+        Console.WriteLine(p || q);
+        Console.Write("¿Con qué promedio concluiste tus estudios de preparatoria? ");
+        calPrepa = Convert.ToSingle(Console.ReadLine());
+
+        Console.Write("¿Que calificación obtuviste en tu examen de ingreso? ");
+        calExamen = Convert.ToSingle(Console.ReadLine());
+
+        if ((calPrepa >= 9) || (calExamen >= 9.5))
+        {
+            Console.WriteLine("¡ Felicidades tienes la beca !");
+        }
+        else
+        {
+            Console.WriteLine(" ¡ Lo siento, no eres acreedor para una beca !");
+        }
+
+        ///----- && -----////
+        Console.WriteLine("------- Operador && --------");
+        Console.Write("¿Que edad tienes?: ");
+        edad = Convert.ToByte(Console.ReadLine());
+
+        Console.Write("¿Tienes licencia de conducir? ");
+        licencia = Convert.ToBoolean(Console.ReadLine());
+
+        if (edad >= 18 && licencia == true)
+        {
+            Console.WriteLine("Puedes condicir");
+        }
+        else
+        {
+            Console.WriteLine("Lo siento no puedes conducir");
+        }*/
+
+        //// --------------Ejecicio ------------------------
+        /*
+                    float energia;
+                    bool propulsorIzquierdo, propulsorDerecho;
+
+                    Console.Write("Ingrese el nivel de energia: ");
+                    energia = Convert.ToSingle(Console.ReadLine());
+
+                    Console.Write("¿El propulsor izquierdo esta en buen estado (true/false)? ");
+                    propulsorIzquierdo = Convert.ToBoolean(Console.ReadLine());
+
+                    Console.Write("¿El propulsor derecho esta en buen estado (true/false)? ");
+                    propulsorDerecho = Convert.ToBoolean(Console.ReadLine());
+
+                    if ((((propulsorIzquierdo && (propulsorDerecho)) == true) && (energia >= 75)) || ((((propulsorIzquierdo) || (propulsorDerecho)) == true) && (energia == 100)))
+                    {
+                        Console.WriteLine("Puedes despegar");
+                    }
+                    else 
+                    {
+                        Console.WriteLine("Lo siento no es seguro despegar");
+                    }
+                }
+        */
     }
+}
