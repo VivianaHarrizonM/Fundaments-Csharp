@@ -49,7 +49,9 @@
     <Compile Include="seccion3\seccion3.cs" />
     <Compile Include="seccion3\tarea3\tarea3.cs" />
     <Compile Include="seccion4\CicloFor.cs" />
+    <Compile Include="seccion4\Factorial.cs" />
     <Compile Include="seccion4\seccion4.cs" />
+    <Compile Include="seccion4\While.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
