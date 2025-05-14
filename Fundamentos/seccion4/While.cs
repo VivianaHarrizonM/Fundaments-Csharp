@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Fundamentos.seccion4
 {
     internal class While
-    {
+    {/*
         static void Main(string[] args)
         {
             /*            byte numero = 1;
@@ -29,7 +29,7 @@ namespace Fundamentos.seccion4
             //    contraseña2 = Console.ReadLine();
             //}
             //Console.WriteLine("Contraseña guardada");
-
+            /*
             Console.WriteLine(" --------------- Do while ------------------------");
             //int i = 1;
 
@@ -87,12 +87,13 @@ namespace Fundamentos.seccion4
 
             }
             Console.WriteLine("El resultado de tu operacion es: {0}", resultado);
-
+            
             int i, j, resul;
-            for (i = 1; i <= 10; i++)
+
+            for (i=1; i <=10; i++) { 
                 Console.WriteLine("Tabla de multiplicar del {0}", i);
-            {
-                for (j = 1; j <= 10; j++)
+            
+                for (j=1; j <= 10; j++)
                 {
                     resul = i * j;
                     Console.WriteLine("{0} * {1} = {2}", i,j, resul);
@@ -101,7 +102,7 @@ namespace Fundamentos.seccion4
                 
         }
 
-        
+        */
 
     }
 }
