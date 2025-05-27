@@ -53,6 +53,7 @@
     <Compile Include="seccion4\seccion4.cs" />
     <Compile Include="seccion4\tarea4.cs" />
     <Compile Include="seccion4\While.cs" />
+    <Compile Include="seccion5\Metodos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

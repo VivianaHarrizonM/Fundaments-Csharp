@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Fundamentos.seccion4
 {
     internal class tarea4
-    {
+    {/*
         static void Main(string[] args)
         {
             //Calcular la potencia de un número ya sea positiva o negativa y 0
@@ -49,6 +49,7 @@ namespace Fundamentos.seccion4
 
             //Devolvemos los numeros primos del 1 al 100
             Console.WriteLine("--------------Números primos del 1 al 100 -----------------------");
+            
 
             for (int i = 2; i <= 100; i++) 
             {
@@ -73,6 +74,6 @@ namespace Fundamentos.seccion4
             }
 
             return true;
-        }
+        }*/
     }
 }
