@@ -13,7 +13,7 @@ namespace Fundamentos.seccion5
      * 3. Métodos que devuelven un tipo
      * 4. Métodos con párametros y que devuelven un tipo
      */
-    {
+    {/*
         static void Main(string[] args)
         {
             int opcion;
@@ -63,13 +63,16 @@ namespace Fundamentos.seccion5
             }
 
             Console.WriteLine("El resultado de tu operación es: {0}", resultado);
-        }
+        }*/
 
         // Métodos con parámetros y retorno
         static decimal Sumar(decimal a, decimal b) => a + b;
         static decimal Restar(decimal a, decimal b) => a - b;
         static decimal Multiplicar(decimal a, decimal b) => a * b;
-        static decimal Dividir(decimal a, decimal b) => a / b;
+        static decimal Dividir(decimal a, decimal
+            
+            
+            b) => a / b;
     }
 }
         

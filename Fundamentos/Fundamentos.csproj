@@ -54,6 +54,7 @@
     <Compile Include="seccion4\tarea4.cs" />
     <Compile Include="seccion4\While.cs" />
     <Compile Include="seccion5\Metodos.cs" />
+    <Compile Include="seccion5\Referencia.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
