@@ -10,6 +10,7 @@ namespace Fundamentos.seccion5
     {/*
         static void Main(string[] args)
         {
+
             //Crear un método para transformar de grados a radianes.
 
             int opcion;

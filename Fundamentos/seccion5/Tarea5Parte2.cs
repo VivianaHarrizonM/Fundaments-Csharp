@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace Fundamentos.seccion5
 {
     internal class Tarea5Parte2
-    {
+    {/*
        static void Main(string[] args)
         {
 
@@ -95,6 +95,6 @@ namespace Fundamentos.seccion5
                 }
             } while (valor <= 0);
             return valor;
-        }
+        }*/
     }
 }
