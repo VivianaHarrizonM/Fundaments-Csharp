@@ -14,6 +14,7 @@ namespace Fundamentos.seccion6
             double[] calificaciones = new double[4]; //Declaracion de una matriz de tipo "double
             String[] nombres = new String[5];
             int[] numeros = new int[10];
+            byte[] datos = new byte[7];
         }
     }
 }
