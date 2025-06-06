@@ -58,6 +58,8 @@
     <Compile Include="seccion5\Tarea5Parte2.cs" />
     <Compile Include="seccion5\Tdatos.cs" />
     <Compile Include="seccion5\Referencia.cs" />
+    <Compile Include="seccion6\Calificaciones.cs" />
+    <Compile Include="seccion6\DiasSemana.cs" />
     <Compile Include="seccion6\Matrices.cs" />
   </ItemGroup>
   <ItemGroup>
