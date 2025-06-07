@@ -59,8 +59,10 @@
     <Compile Include="seccion5\Tdatos.cs" />
     <Compile Include="seccion5\Referencia.cs" />
     <Compile Include="seccion6\Calificaciones.cs" />
+    <Compile Include="seccion6\CalificacionesBiDi.cs" />
     <Compile Include="seccion6\DiasSemana.cs" />
     <Compile Include="seccion6\Matrices.cs" />
+    <Compile Include="seccion6\MatrizEscalonada.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
