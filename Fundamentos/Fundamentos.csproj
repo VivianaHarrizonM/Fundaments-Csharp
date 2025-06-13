@@ -62,6 +62,7 @@
     <Compile Include="seccion6\CalificacionesBiDi.cs" />
     <Compile Include="seccion6\DiasSemana.cs" />
     <Compile Include="seccion6\Matrices.cs" />
+    <Compile Include="seccion6\Matrices2.cs" />
     <Compile Include="seccion6\MatrizEscalonada.cs" />
   </ItemGroup>
   <ItemGroup>

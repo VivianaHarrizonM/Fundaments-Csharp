@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Fundamentos.seccion6
 {
     internal class MatrizEscalonada
-    {
+    {/*
         static void Main(string[] args)
         {
             //int[] numeros = new int[4] { 23, 13, 5, 6 };
@@ -90,6 +90,6 @@ namespace Fundamentos.seccion6
             Console.WriteLine($"Calificación máxima: {califMax}");
             Console.WriteLine($"Calificación mínima: {califMin}");
 
-        }
+        }*/
     }
 }
