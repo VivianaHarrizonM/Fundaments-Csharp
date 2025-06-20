@@ -64,6 +64,7 @@
     <Compile Include="seccion6\Matrices.cs" />
     <Compile Include="seccion6\Matrices2.cs" />
     <Compile Include="seccion6\MatrizEscalonada.cs" />
+    <Compile Include="seccion6\Tarea6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
