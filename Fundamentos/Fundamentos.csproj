@@ -49,7 +49,22 @@
     <Compile Include="seccion3\seccion3.cs" />
     <Compile Include="seccion3\tarea3\tarea3.cs" />
     <Compile Include="seccion4\CicloFor.cs" />
+    <Compile Include="seccion4\Factorial.cs" />
     <Compile Include="seccion4\seccion4.cs" />
+    <Compile Include="seccion4\tarea4.cs" />
+    <Compile Include="seccion4\While.cs" />
+    <Compile Include="seccion5\Metodos.cs" />
+    <Compile Include="seccion5\Tarea5Parte1.cs" />
+    <Compile Include="seccion5\Tarea5Parte2.cs" />
+    <Compile Include="seccion5\Tdatos.cs" />
+    <Compile Include="seccion5\Referencia.cs" />
+    <Compile Include="seccion6\Calificaciones.cs" />
+    <Compile Include="seccion6\CalificacionesBiDi.cs" />
+    <Compile Include="seccion6\DiasSemana.cs" />
+    <Compile Include="seccion6\Matrices.cs" />
+    <Compile Include="seccion6\Matrices2.cs" />
+    <Compile Include="seccion6\MatrizEscalonada.cs" />
+    <Compile Include="seccion6\Tarea6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
